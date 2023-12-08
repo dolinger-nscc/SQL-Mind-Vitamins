@@ -13,4 +13,4 @@ This is where I will collect various queries (aka *Mind Vitamins*) we use in cla
 [Tech Check Sample Queries](TechCheckSample.ipynb)  
 
 
-![](https://github.com/dolinger-nscc/SQL-Mind-Vitamins/blob/main/img/GreaterThanAvgUnitPrice.png)
+![Insert Draw.io Here](https://github.com/dolinger-nscc/SQL-Mind-Vitamins/blob/main/img/GreaterThanAvgUnitPrice.png)
