@@ -15,4 +15,4 @@ GitHub’s flavor of Markdown does not support Font Awesome icons directly. This
 
 `This is code`  
 
-<button style="background-color: green; color: white; padding: 10px 20px; border: none; cursor: pointer;">Click Me</button>
+!button
