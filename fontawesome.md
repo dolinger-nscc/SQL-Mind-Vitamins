@@ -16,6 +16,5 @@ GitHub’s flavor of Markdown does not support Font Awesome icons directly. This
 `This is code`  
 
 `SELECT *  
-
 FROM myTable as T1;`
 
