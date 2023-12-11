@@ -13,4 +13,5 @@ GitHub’s flavor of Markdown does not support Font Awesome icons directly. This
 # 👩‍✈️
 
 
-<code style="green : green">CommitChanges...</code>
+<html><code style="green : green">Commit Changes...</code></html>
+
